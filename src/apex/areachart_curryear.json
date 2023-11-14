@@ -1,0 +1,33 @@
+[
+  {
+    "month": "Jan",
+    "unit_consumed": 380,
+    "billing_amount": 11400
+  },
+
+  {
+    "month": "Feb",
+    "unit_consumed": 360,
+    "billing_amount": 10800
+  },
+  {
+    "month": "March",
+    "unit_consumed": 420,
+    "billing_amount": 12600
+  },
+  {
+    "month": "April",
+    "unit_consumed": 480,
+    "billing_amount": 14400
+  },
+  {
+    "month": "May",
+    "unit_consumed": 650,
+    "billing_amount": 19500
+  },
+  {
+    "month": "June",
+    "unit_consumed": 790,
+    "billing_amount": 23700
+  }
+]
